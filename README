@@ -1,1 +1,10 @@
+Hi everyone.
+
 This repository if to suppport the development of training material
+
+Each course, should contain the following files:
+- SHOW - which is a pdf or powerpoint with the slides for the instructor
+- STUD - which is a pdf file with the student documentation
+- XSTUD - which is a pdf file for the student exercise book
+- INST - which is the pdf file with the instructor documentation
+- XINST - which is a pdf file for the instructur exercise book
